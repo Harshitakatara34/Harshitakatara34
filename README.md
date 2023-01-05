@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring FULL STACK DEVELOPER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitakatara34&label=Profile%20views&color=0e75b6&style=flat" alt="harshitakatara34" /> </p>
-<img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.open.edu%2Fopenlearn%2Fscience-maths-technology%2Fsimple-coding%2Fcontent-section-0&psig=AOvVaw3kS1jydLbl3IwewlfRb_gh&ust=1672992554386000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC8lIz9r_wCFQAAAAAdAAAAABAE/"/>
+<img align="right" width=400 alt="coding" src="https://www.open.edu/openlearn/pluginfile.php/1317197/tool_ocwmanage/image/0/sc_1_olhp_786px.jpg"/>
 - 🌱 I’m currently learning **react.js**
 
 - 📫 How to reach me **khushikatara041@gmail.com**
