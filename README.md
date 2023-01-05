@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitakatara34&label=Profile%20views&color=0e75b6&style=flat" alt="harshitakatara34" /> </p>
 <img align="right" width=400 alt="coding" src="https://www.open.edu/openlearn/pluginfile.php/1317197/tool_ocwmanage/image/0/sc_1_olhp_786px.jpg"/>
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **khushikatara041@gmail.com**
 
