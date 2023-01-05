@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring FULL STACK DEVELOPER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitakatara34&label=Profile%20views&color=0e75b6&style=flat" alt="harshitakatara34" /> </p>
-<img align="right" width=550 height=500 alt="coding"src="https://media4.giphy.com/media/TFPdmm3rdzeZ0kP3zG/200w.webp?cid=ecf05e474u4ljr5szsxrzx744r84tjco8imfqpp1rgso9fha&rid=200w.webp&ct=g"/>
+<img align="right" width=550 height=300 alt="coding"src="https://media4.giphy.com/media/TFPdmm3rdzeZ0kP3zG/200w.webp?cid=ecf05e474u4ljr5szsxrzx744r84tjco8imfqpp1rgso9fha&rid=200w.webp&ct=g"/>
 - 🌱 I’m currently learning React
 
 - 📫 How to reach me **khushikatara041@gmail.com**
