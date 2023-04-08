@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning *node.js*
 
-- 👨‍💻 All of my projects are available at [https://harshitakatara34.github.io/]
-- 💬 Ask me about *ReduxReact,Javascript,Html,Css,*
+- 👨‍💻 All of my projects are available at [https://harshitakatara34.github.io/](https://harshitakatara34.github.io/)
+- 💬 Ask me about *Redux,React,Javascript,Html,Css*
 
 - 📫 How to reach me *khushikatara041@gmail.com*
 
