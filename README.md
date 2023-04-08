@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *node.js*
 
-- 👨‍💻 All of my projects are available at [hhttps://harshitakatara34.github.io/](hhttps://harshitakatara34.github.io/)
+- 👨‍💻 All of my projects are available at [https://harshitakatara34.github.io/](https://harshitakatara34.github.io/)
 
 - 💬 Ask me about *ReduxReact,Javascript,Html,Css,*
 
