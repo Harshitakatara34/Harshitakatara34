@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- Visit [https://harshitakatara34.github.io/]
+- Visit <a href="https://harshitakatara34.github.io/" >Portfolio</a>
 
 - 💬 Ask me about **React,Redux,Javascript,Html,CSS**
 
