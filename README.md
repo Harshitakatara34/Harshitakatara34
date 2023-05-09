@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [https://harshitakatara34.github.io/](https://harshitakatara34.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://harshitakatara34.github.io/">Portfolio</a>[https://harshitakatara34.github.io/](https://harshitakatara34.github.io/)
 
 - 💬 Ask me about **React,Redux,Javascript,Html,CSS**
 
