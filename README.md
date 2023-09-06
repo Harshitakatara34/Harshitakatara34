@@ -5,7 +5,7 @@
 
 - Visit <a href="https://harshitakatara34.github.io/" >Portfolio</a>
 
--💬 Visit <a href="https://www.linkedin.com/in/harshita-katara-09904b246/" >LinkedIn</a>
+- 💬 Visit <a href="https://www.linkedin.com/in/harshita-katara-09904b246/" >LinkedIn</a>
 
 - 💬 Ask me about **React,Redux,Javascript,Html,CSS**
 
