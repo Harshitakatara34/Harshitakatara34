@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **khushikatara041@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1CDMGHD_X1NggoBP3n1CS5fIbXdXVvnqZ/view?usp=sharing
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CDMGHD_X1NggoBP3n1CS5fIbXdXVvnqZ/view?usp=sharing](https://drive.google.com/file/d/12XdkbZJHYBS807iBOAZryNBuMY2JBfVP/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshita-katara-09904b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshita-katara-09904b246" height="30" width="40" /></a>
